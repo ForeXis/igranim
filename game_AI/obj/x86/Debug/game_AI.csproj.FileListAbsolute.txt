@@ -1,0 +1,10 @@
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\bin\Debug\game_AI.exe
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\bin\Debug\game_AI.pdb
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\game_AI.Form1.resources
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\game_AI.Form2.resources
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\game_AI.Properties.Resources.resources
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\game_AI.exe
+E:\Учёба\4курс2семестр\OOP\game_AI\game_AI\obj\x86\Debug\game_AI.pdb
